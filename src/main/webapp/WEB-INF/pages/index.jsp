@@ -30,11 +30,13 @@
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap.min.css'>
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap-theme.min.css'>
     <link rel='stylesheet' href='css/theme.css'>
+    
+    
 </head>
 <body role="document">
   <div class="container theme-showcase" role="main">
     <div class="jumbotron">
-      <h1>A Sample web application:</h1>
+      <h1>This is Muzamil Application</h1>
       <p><i>Why can't application deployment be soooooo easy?</i></p>
     </div>
     <div class="page-header">
